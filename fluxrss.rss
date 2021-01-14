@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+     <title>ToutEstFacile - Exemple de flux RSS</title>
+     <link>http://www.toutestfacile.com/</link>
+     <description>Exemple de traitement de flux XML en PHP</description>
+     <language>fr</language>
+     
+     <item>
+       <title>Les cours PHP</title>
+       <author>toutestfacile.com</author>
+       <pubDate>Sun, 04 Feb 2007 18:20:00 +1000</pubDate>
+       <link>http://www.phpfacile.com/</link>
+       <description>Apprendre PHP facilement</description>
+     </item>
+     
+     <item>
+       <title>Les cours SQL</title>
+       <author>toutestfacile.com</author>
+       <pubDate>Sun, 04 Feb 2007 18:20:00 +1000</pubDate>
+       <link>http://www.sqlfacile.com/</link>
+       <description>Apprendre SQL facilement</description>
+     </item>     
+     
+     <item>
+       <title>Les cours XML</title>
+       <author>toutestfacile.com</author>
+       <pubDate>Sun, 04 Feb 2007 18:20:00 +1000</pubDate>
+       <link>http://www.xmlfacile.com/</link>
+       <description>Apprendre XML facilement</description>
+     </item>
+  </channel>
+</rss>
